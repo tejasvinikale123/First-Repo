@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/k8mfOERKeNsMWnxPjTB7eJkF8UINmyti+8MIEpemnhtf10tS2jZfh5GQdMQq9uUF0X1sdXCLMG7ibrgexiaOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MAROTI\\source\\repos\\FirstWebApi\\WebApiApp\\WebApiApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MAROTI\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\MAROTI\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\MAROTI\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\MAROTI\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\MAROTI\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\MAROTI\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
